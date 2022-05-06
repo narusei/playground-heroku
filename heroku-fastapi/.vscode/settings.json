@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "python.autoComplete.extraPaths": [
+    "/Users/issei/.local/share/virtualenvs/heroku-fastapi-AZrjOP3v/lib/python3.10/site-packages"
+  ],
+  "python.analysis.extraPaths": [
+    "/Users/issei/.local/share/virtualenvs/heroku-fastapi-AZrjOP3v/lib/python3.10/site-packages"
+  ]
+}
